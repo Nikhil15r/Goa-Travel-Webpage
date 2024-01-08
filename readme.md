@@ -1,5 +1,7 @@
 # Goa Travel Website
 
+**Explore the project live: [Goa Travel Website](https://nikhil15r.github.io/Goa-Travel-Webpage/)**
+
 ## Overview
 
 This is a static website for "Goa Travel," a fictional travel agency that offers guided tours in Goa. The website showcases various sections such as tours, destinations, tour packages, testimonials, and a subscription form for updates.
@@ -66,3 +68,4 @@ This project was created during college days as a part of web development learni
 This is an old project and may not incorporate the latest web development practices. It is shared here for reference and nostalgic purposes.
 
 Feel free to explore the code and make improvements based on your current knowledge and skills. If you have any questions or suggestions, please reach out.
+
